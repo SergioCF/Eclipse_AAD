@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/Sergio/Documents/Florida/2º DAM/Acceso a datos (Juanmi) jmalberola@florida-uni.es/Tema 1/Actividad 1/Actividad 1a/Librerias/GestionFicherosBase.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sergio/Documents/Florida/2º DAM/Acceso a datos (Juanmi) jmalberola@florida-uni.es/Tema 1/Actividad 1/Actividad 1a/Librerias/GestionFicherosIGU.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
